@@ -1,0 +1,19 @@
+{
+  "name": "saferpath",
+  "version": "1.0.0",
+  "description": "SaferPath - Intelligent Safe Route Navigation & Community Safety Web Platform",
+  "main": "netlify/functions/api.js",
+  "scripts": {
+    "build": "echo 'Build complete - static assets and serverless functions ready.'",
+    "start": "npx netlify dev"
+  },
+  "keywords": [
+    "safe-navigation",
+    "saferpath",
+    "leaflet",
+    "security",
+    "smart-city"
+  ],
+  "author": "PRADEEP KRISHNA K",
+  "license": "MIT"
+}
